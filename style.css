@@ -139,9 +139,18 @@ nav {
 /* My Inspiration start */
 .video {
     padding: 20px;
-    border-radius: 3px;
-    width: auto;
-    height: auto;
+    border-radius: 10px;
+    margin: auto;
+    width: 915px;
+    height: 530px;
+    border: 1px solid gray;
+    text-align: center;
+}
+.iframe{
+    width: 900px;
+    height: 520px;
+    border-radius: 10px;
+    margin: auto;
 }
 
 
