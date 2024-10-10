@@ -8,6 +8,11 @@ body {
     height: auto;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
+
 nav {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -34,4 +39,38 @@ nav {
     border: 1px solid black;
     padding: 10px;
     border-radius: 8px;
+}
+
+
+.banner{
+    background: url(assets/Hero-bg.png);
+    text-align: center;
+    padding: 30px;
+}
+
+.future{
+    font-weight: 800;
+    font-size: 48px;
+}
+
+.description{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.text{
+    padding-left: 220px;
+    padding-right: 220px;
+    font-family: monospace;
+}
+
+.con-btn{
+    font-family: monospace;
+    font-weight: 600;
+    font-size: large;
+    background: black;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
 }
