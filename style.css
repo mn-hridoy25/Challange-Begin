@@ -200,3 +200,19 @@ nav {
     width: 100px;
     height: auto;
 }
+
+/* support start */
+.support{
+    background: url(assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 980px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 50px;
+}
+.input-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
