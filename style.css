@@ -1,0 +1,24 @@
+/* font family */
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: aliceblue;
+    margin: auto;
+    width: 1440px;
+    height: auto;
+}
+
+nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1080px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    justify-self: center;
+}
+
+.down-res {
+    background: none;
+    border-radius: 10%;
+}
