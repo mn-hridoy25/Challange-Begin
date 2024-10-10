@@ -16,9 +16,22 @@ nav {
     display: flex;
     justify-content: space-between;
     justify-self: center;
+    margin: auto;
+}
+
+.awlad {
+    font-family: monospace;
+    font-weight: 800;
+    font-size: xx-large;
 }
 
 .down-res {
+    border: none;
+    font-family: monospace;
+    font-weight: 600;
+    font-size: large;
     background: none;
-    border-radius: 10%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 8px;
 }
