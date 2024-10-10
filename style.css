@@ -118,7 +118,14 @@ nav {
     font-weight: 600;
     color: rgb(72, 69, 69);
     font-family: monospace;
+    background-color: white;
 }
 
 
-/*  */
+/* My Inspiration start */
+.video{
+    padding: 20px;
+    border-radius: 3px;
+    width: auto;
+    height: auto;
+}
