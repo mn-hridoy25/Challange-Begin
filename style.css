@@ -6,13 +6,17 @@ body {
     margin: auto;
     width: 1440px;
     height: auto;
-}
+    font-family: monospace;
+    color: rgb(72, 69, 69);
 
+}
 a{
     text-decoration: none;
     color: white;
 }
 
+
+/* Nav start */
 nav {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -23,13 +27,12 @@ nav {
     justify-self: center;
     margin: auto;
 }
-
 .awlad {
     font-family: monospace;
     font-weight: 800;
     font-size: xx-large;
+    color: black;
 }
-
 .down-res {
     border: none;
     font-family: monospace;
@@ -42,28 +45,26 @@ nav {
 }
 
 
+/* bannet start */
 .banner{
     background: url(assets/Hero-bg.png);
     text-align: center;
     padding: 30px;
 }
-
 .future{
     font-weight: 800;
     font-size: 48px;
+    color: black;
 }
-
 .description{
     font-size: 16px;
     font-weight: 400;
 }
-
 .text{
     padding-left: 220px;
     padding-right: 220px;
     font-family: monospace;
 }
-
 .con-btn{
     font-family: monospace;
     font-weight: 600;
@@ -74,3 +75,44 @@ nav {
     border-radius: 8px;
     color: white;
 }
+
+
+/* Why Web Development start*/
+.WhyWebDevelopment{
+    text-align: center;
+    padding: 40px;
+}
+.wwd{
+    font-weight: 900;
+    font-size: 32px;
+    color: black;
+}
+.wwd-desc{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-left: 220px;
+    padding-right: 220px;
+}
+.titleCard{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.textCard{
+    width: 400px;
+    text-align: start;
+}
+.title-text1{
+    font-size: 24px;
+    font-weight: bold;
+}
+.title-text2{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+/*  */
